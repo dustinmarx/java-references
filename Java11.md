@@ -1,6 +1,12 @@
 # Java 11 Links and References
 
+## JDK 11 Overviews / General Information
+* [Getting Ready for Java 11](https://dzone.com/articles/getting-ready-for-java-11)
+* [Java 11 Will Include More Than Just Features](https://blog.takipi.com/java-11-will-include-more-than-just-features/)
+* [Java 11 roadmap: The new features you can expect](https://www.infoworld.com/article/3265447/java/java-11-roadmap-the-new-features-you-can-expect.html)
+
 ## JDK API Updates
+* [Java11 API Changes](http://d.hatena.ne.jp/nowokay/20180707)
 * [Applying New JDK 11 String Methods](http://marxsoftware.blogspot.com/2018/07/new-jdk-11-string-methods.html)
 * [New Methods on Java String with JDK 11](http://marxsoftware.blogspot.com/2018/05/jdk-11-string-methods.html)
 * [Thread Methods destroy() and stop(Throwable) Removed in JDK 11](http://marxsoftware.blogspot.com/2018/06/good-riddance-thread-jdk11.html)
@@ -33,6 +39,7 @@
 ## JEP 330: Launch Single-File Source-Code Programs
 * [JEP 329 and JEP 330 Proposed for JDK 11](http://marxsoftware.blogspot.com/2018/05/jep329-jep330-jdk11.html)
 * [Shebang Coming to Java?](http://marxsoftware.blogspot.com/2018/05/java-shebang.html)
+* [New Java 11 Feature: Launch Single-File Source-Code Programs](https://medium.com/@afinlay/new-java-11-feature-launch-single-file-source-code-programs-fadd698abf54)
 
 ## JEP 333: Z Garbage Collector
 * [JEP 181, JEP 315, and JEP 333 Proposed to Target JDK 11](http://marxsoftware.blogspot.com/2018/05/jep181-jep315-and-jep333-jdk11.html)
