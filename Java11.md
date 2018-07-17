@@ -17,6 +17,8 @@
 
 ## JEP 181: Nest-Based Access Control
 * [JEP 181, JEP 315, and JEP 333 Proposed to Target JDK 11](http://marxsoftware.blogspot.com/2018/05/jep181-jep315-and-jep333-jdk11.html)
+* [JEP-181: Nest-based Access Control is integrated into JDK 11 b20](http://mail.openjdk.java.net/pipermail/jdk-dev/2018-July/001559.html)
+* [Java Nestmates Makes Progress](https://www.infoq.com/news/2018/03/Nestmates)
 
 ## JEP 309: Dynamic Class-File Constants
 * [An Early Look at Features Targeted for Java 11](http://marxsoftware.blogspot.com/2018/02/early-jeps-java-11.html)
